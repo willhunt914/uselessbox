@@ -20,9 +20,13 @@ We estimate this will cost around 15 to 20 dollars.
 
 [finalbox](https://cvilleschools.onshape.com/documents/dfa1e4b20d3e549f998c52d1/w/f503be5fb9e0f6811a1828ea/e/bf107d1ce52c65efc9cf66e2) 
 This is the box that will be made in onshape
+
+
 [arm](https://cvilleschools.onshape.com/documents/dfa1e4b20d3e549f998c52d1/w/f503be5fb9e0f6811a1828ea/e/ed5358521d5fbf23df6d463f)
 this is the arm that is going to be atatched to the box it will turn off the switch
-[code](https://create.arduino.cc/editor/whunt29a/40efa559-dfd3-461b-b00e-44b984502a94) 
+
+
+[code](https://create.arduino.cc/editor/whunt29a/40efa559-dfd3-461b-b00e-44b984502a94) This is the code that will control the arduino to move the arm
 
 Schedule 
 March 31 be finished with the plan 
