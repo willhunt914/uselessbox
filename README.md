@@ -34,4 +34,4 @@ April 20th  we should start building the project.
 May 5th done building 
 May 7 be finished with the project 
 
-This is what we planned but onshape took longer than we thought. 
+This is what we planned but onshape took longer than we thought. The main problem with it was the edit in context feature. This was the first time I had ever used it and I had issues with the parts showing up as well as some of the parts that I had previosly deleted were apearing.
