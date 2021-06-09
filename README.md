@@ -28,6 +28,10 @@ this is the arm that is going to be atatched to the box it will turn off the swi
 
 [code](https://create.arduino.cc/editor/whunt29a/40efa559-dfd3-461b-b00e-44b984502a94) This is the code that will control the arduino to move the arm
 
+
+[box video](https://drive.google.com/file/d/19vtTVLQXSV2M87ccvM42sI3ENtxpJqCh/view)
+
+![box]()
 Schedule 
 March 31 be finished with the plan 
 April 20th  we should start building the project.
